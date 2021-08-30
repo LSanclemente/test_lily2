@@ -1,0 +1,5 @@
+new_file_to_be_tracked.txt
+
+NEw KINE AFTER CONFLICT SOLVED
+
+posible conflict
