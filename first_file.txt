@@ -1,2 +1,10 @@
 Hello, this is Luz. 
-And this is a test for a pull request.
+
+- Added thse lines to greet Lily
+- Also added the file greetings.txt
+
+THIS CHANGE MAY BE USEFUL LATER
+console.log("something");
+THIS CHANGE MAY BE USEFUL LATER
+
+Goodbye. :D
